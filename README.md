@@ -85,3 +85,32 @@ AirlinesManagementSystem/
    - API endpoints: `http://localhost:8080/api/...`
 
 ---
+## 📸 Screenshots
+
+> *(Add images of the UI here)*
+
+---
+
+## 💡 Future Enhancements
+
+- JWT authentication
+- Admin/user dashboards
+- Email notifications
+- Docker support
+
+---
+
+## 🤝 Contributing
+
+1. Fork this repository
+2. Create a new branch: `git checkout -b feature-name`
+3. Commit your changes: `git commit -m "Add new feature"`
+4. Push to your branch: `git push origin feature-name`
+5. Create a Pull Request
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.  
+© 2025 YourName
