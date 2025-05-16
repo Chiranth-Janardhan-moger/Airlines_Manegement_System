@@ -13,3 +13,34 @@ A full-stack web application for managing airline operations such as flight sche
 - **IDE**: IntelliJ IDEA / Eclipse
 
 ---
+
+## 🚀 Features
+
+- Add, update, and delete flights
+- Book and cancel tickets
+- Manage passenger details
+- View all scheduled flights
+- Optional: Admin and user roles, dashboard
+
+---
+
+## 📁 Project Structure
+
+```
+AirlinesManagementSystem/
+├── src/
+│   └── main/
+│       ├── java/com/airlines/
+│       │   ├── controller/
+│       │   ├── model/
+│       │   ├── repository/
+│       │   └── service/
+│       └── resources/
+│           ├── static/            # HTML, CSS
+│           ├── templates/         # Thymeleaf (optional)
+│           └── application.properties
+├── pom.xml
+└── README.md
+```
+
+---
