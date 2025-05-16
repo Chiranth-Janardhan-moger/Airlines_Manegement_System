@@ -44,3 +44,12 @@ AirlinesManagementSystem/
 ```
 
 ---
+
+## 🛠️ Setup Instructions
+
+### 📌 Prerequisites
+
+- JDK 17 or higher
+- MySQL server
+- Maven
+- Git
