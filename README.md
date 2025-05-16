@@ -6,8 +6,8 @@ A full-stack web application for managing airline operations such as flight sche
 
 ## 🔧 Tech Stack
 
-- **Backend**: Java Spring Boot  
 - **Frontend**: HTML, CSS  
+- **Backend**: Java Spring Boot  
 - **Database**: MySQL  
 - **Build Tool**: Maven  
 - **IDE**: IntelliJ IDEA / Eclipse
@@ -37,7 +37,7 @@ AirlinesManagementSystem/
 │       │   └── service/
 │       └── resources/
 │           ├── static/            # HTML, CSS
-│           ├── templates/         # Thymeleaf (optional)
+│           ├── templates/         
 │           └── application.properties
 ├── pom.xml
 └── README.md
@@ -80,14 +80,10 @@ AirlinesManagementSystem/
    mvn spring-boot:run
    ```
 
-5. **Access the app**
-   - Frontend: `http://localhost:8080`
-   - API endpoints: `http://localhost:8080/api/...`
-
 ---
 ## 📸 Screenshots
 
-> *(Add images of the UI here)*
+> Soon
 
 ---
 
@@ -96,7 +92,6 @@ AirlinesManagementSystem/
 - JWT authentication
 - Admin/user dashboards
 - Email notifications
-- Docker support
 
 ---
 
@@ -113,4 +108,4 @@ AirlinesManagementSystem/
 ## 📄 License
 
 This project is licensed under the MIT License.  
-© 2025 YourName
+© 2025 Chiranth-Moger
